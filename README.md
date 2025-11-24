@@ -8,7 +8,7 @@ The project demonstrates how to design a **reliable, declarative, and production
 
 ## 🏗️ LakeFlow Architecture
 
-![DLT Pipeline](./assets/architechure2.png)
+![DLT Pipeline](./assets/architechure3.png)
 
 This architecture outlines the full lifecycle:
 
