@@ -1,0 +1,3 @@
+account_id,cust_id,account_type,balance,txn_id,txn_date,txn_type,txn_amount,txn_channel
+302011,201,Savings,3000,3,2024-05-04,Credit,6000,ATM
+302011,201,Savings,2000,2,2024-07-12,Credit,4000,ATM

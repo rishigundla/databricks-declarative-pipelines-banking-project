@@ -1,0 +1,3 @@
+account_id,cust_id,account_type,balance,txn_id,txn_date,txn_type,txn_amount,txn_channel
+100010,1,Current,3000,3,2023-07-28,Debit,6000,ATM
+100010,1,Current,2000,2,2023-09-25,Debit,4000,ATM
