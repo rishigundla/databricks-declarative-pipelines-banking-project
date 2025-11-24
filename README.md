@@ -156,7 +156,7 @@ The final BI layer is built using **Databricks AI/BI Dashboard**, visualizing:
 - Risk segment analysis  
 - Customer-level drilldowns  
 
-![Dashboard](./assets/Bank Transaction Dashboard.png)
+![Workflow](./assets/Bank_Transaction_Dashboard.png)
 
 ---
 
