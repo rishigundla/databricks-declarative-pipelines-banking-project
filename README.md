@@ -8,10 +8,6 @@ The project demonstrates how to design a **reliable, declarative, and production
 
 ## 🏗️ LakeFlow Architecture
 
-![Architecture](./assets/architechure.png)
-
-assets/architechure.png
-
 This architecture outlines the full lifecycle:
 
 - **Auto Loader ingestion** (Landing zone)
