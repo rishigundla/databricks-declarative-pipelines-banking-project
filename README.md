@@ -8,6 +8,8 @@ The project demonstrates how to design a **reliable, declarative, and production
 
 ## 🏗️ LakeFlow Architecture
 
+![DLT Pipeline](./assets/architechure.png)
+
 This architecture outlines the full lifecycle:
 
 - **Auto Loader ingestion** (Landing zone)
